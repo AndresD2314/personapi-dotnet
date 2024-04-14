@@ -2973,9 +2973,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\Lab1.csproj",
-      "projectName": "Lab1",
-      "projectPath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\personapi-dotnet.csproj",
+      "projectName": "personapi-dotnet",
+      "projectPath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\personapi-dotnet.csproj",
       "packagesPath": "C:\\Users\\tico2\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\obj\\",
       "projectStyle": "PackageReference",

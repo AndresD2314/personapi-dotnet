@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U8brwBA4MgOrjmajdoYu/mX4AkoIt2iwU0OujRNxGN07rZoGmUIoaJjxqb+xuef14fnP7jM6puGDy/lQvMSI9A==",
+  "dgSpecHash": "Ur5FmNJLfodlXW9TNuriPpbOivYvAkxNlSV5WsUQZ0NwqOsBknyoQ0HxC3H44kTjodL7VD6o5cFgI4H5H6GBcw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\Lab1.csproj",
+  "projectFilePath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\personapi-dotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tico2\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\tico2\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
