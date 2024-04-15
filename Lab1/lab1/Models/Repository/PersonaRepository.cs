@@ -14,17 +14,24 @@ using Microsoft.EntityFrameworkCore;
     {
         _context = context;
     }
-        
 
-    public async Task<IEnumerable<Persona>> GetAllPersonasAsync()
-    {
-        return await _context.Personas.ToListAsync();
-    }
 
-    public async Task<Persona> GetPersonaByIdAsync(int Cc)
+        public async Task<IEnumerable<Persona>> GetAllPersonasAsync()
+        {
+            return await _context.Personas
+                                 .Include(p => p.Estudios)
+                                 .Include(p => p.Telefonos)
+                                 .ToListAsync();
+        }
+
+
+        public async Task<Persona> GetPersonaByIdAsync(int Cc)
     {
-        return await _context.Personas.FirstOrDefaultAsync(p => p.Cc == Cc);
-    }
+            return await _context.Personas
+                              .Include(p => p.Estudios)
+                              .Include(p => p.Telefonos)
+                              .FirstOrDefaultAsync(p => p.Cc == Cc);
+        }
 
     public async Task AddPersonaAsync(Persona persona)
     {

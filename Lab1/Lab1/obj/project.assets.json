@@ -3130,19 +3130,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\tico2\\.nuget\\packages\\": {}
+    "C:\\Users\\estudiante\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\personapi-dotnet.csproj",
+      "projectUniqueName": "C:\\Users\\estudiante\\Source\\Repos\\personapi-dotnet\\Lab1\\Lab1\\personapi-dotnet.csproj",
       "projectName": "personapi-dotnet",
-      "projectPath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\personapi-dotnet.csproj",
-      "packagesPath": "C:\\Users\\tico2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\obj\\",
+      "projectPath": "C:\\Users\\estudiante\\Source\\Repos\\personapi-dotnet\\Lab1\\Lab1\\personapi-dotnet.csproj",
+      "packagesPath": "C:\\Users\\estudiante\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\estudiante\\Source\\Repos\\personapi-dotnet\\Lab1\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\tico2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
