@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|c:\\users\\tico2\\desktop\\lab1\\lab1\\lab1\\personapi-dotnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|solutionrelative:lab1\\personapi-dotnet.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|c:\\users\\tico2\\desktop\\lab1\\lab1\\lab1\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|solutionrelative:lab1\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|c:\\users\\tico2\\desktop\\lab1\\lab1\\lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|solutionrelative:lab1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|c:\\users\\tico2\\desktop\\lab1\\lab1\\lab1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|solutionrelative:lab1\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|c:\\users\\tico2\\desktop\\lab1\\lab1\\lab1\\models\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|solutionrelative:lab1\\models\\repository\\personarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|c:\\users\\tico2\\desktop\\lab1\\lab1\\lab1\\models\\repository\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|solutionrelative:lab1\\models\\repository\\ipersonarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|c:\\users\\tico2\\desktop\\lab1\\lab1\\lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F5D3F96E-1292-4416-BB11-63F024CF4CAD}|Lab1\\personapi-dotnet.csproj|solutionrelative:lab1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -23,31 +47,103 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\appsettings.json",
-              "RelativeDocumentMoniker": "Lab1\\appsettings.json",
-              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\appsettings.json",
-              "RelativeToolTip": "Lab1\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-14T22:56:31.095Z",
+              "Title": "personapi-dotnet",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\personapi-dotnet.csproj",
+              "RelativeDocumentMoniker": "Lab1\\personapi-dotnet.csproj",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\personapi-dotnet.csproj",
+              "RelativeToolTip": "Lab1\\personapi-dotnet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T03:45:09.175Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\Models\\Entities\\PersonaDbContext.cs",
-              "RelativeDocumentMoniker": "Lab1\\Models\\Entities\\PersonaDbContext.cs",
-              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\Lab1\\Models\\Entities\\PersonaDbContext.cs",
-              "RelativeToolTip": "Lab1\\Models\\Entities\\PersonaDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-14T22:56:26.707Z"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "lab1\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "lab1\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:48:39.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Program.cs",
+              "RelativeDocumentMoniker": "lab1\\Program.cs",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Program.cs",
+              "RelativeToolTip": "lab1\\Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:46:26.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "lab1\\Models\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Entities\\Persona.cs",
+              "RelativeToolTip": "lab1\\Models\\Entities\\Persona.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:43:11.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Repository\\PersonaRepository.cs",
+              "RelativeDocumentMoniker": "lab1\\Models\\Repository\\PersonaRepository.cs",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Repository\\PersonaRepository.cs",
+              "RelativeToolTip": "lab1\\Models\\Repository\\PersonaRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:49:58.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPersonaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Repository\\IPersonaRepository.cs",
+              "RelativeDocumentMoniker": "lab1\\Models\\Repository\\IPersonaRepository.cs",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Repository\\IPersonaRepository.cs",
+              "RelativeToolTip": "lab1\\Models\\Repository\\IPersonaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T23:45:49.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\appsettings.json",
+              "RelativeDocumentMoniker": "lab1\\appsettings.json",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\appsettings.json",
+              "RelativeToolTip": "lab1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T22:56:31.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PersonaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Entities\\PersonaDbContext.cs",
+              "RelativeDocumentMoniker": "lab1\\Models\\Entities\\PersonaDbContext.cs",
+              "ToolTip": "C:\\Users\\tico2\\Desktop\\lab1\\Lab1\\lab1\\Models\\Entities\\PersonaDbContext.cs",
+              "RelativeToolTip": "lab1\\Models\\Entities\\PersonaDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T22:56:26.707Z"
             }
           ]
         }
